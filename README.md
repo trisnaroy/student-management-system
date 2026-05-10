@@ -1,4 +1,4 @@
-# 🚀 Student Management System
+## Student Management System
 
 A simple console-based Student Management System built using Python.
 
@@ -6,7 +6,7 @@ This project allows users to manage student records using basic CRUD operations 
 
 ---
 
-## 📌 Features
+## Features
 - Add new student
 - View all students
 - Update student information
@@ -15,15 +15,18 @@ This project allows users to manage student records using basic CRUD operations 
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python 3
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 Open terminal in project folder and run:
 
 ```bash
 cd student-management-system
 python main.py
+
+## Author
+**Trisna Rani Roy**
