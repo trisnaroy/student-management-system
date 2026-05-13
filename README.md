@@ -27,3 +27,7 @@ Open terminal in project folder and run:
 ```bash
 cd student-management-system
 python main.py
+
+---
+## Author
+Trisna Rani Roy
